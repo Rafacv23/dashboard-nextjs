@@ -19,7 +19,7 @@ export default function Footer() {
         <ul class="flex flex-wrap items-center justify-center mt-3 text-sm font-medium text-woodsmoke-300 dark:text-gray-400 sm:mt-0">
           <HeaderBtn
             name={"GitHub"}
-            destino={"https://github.com/Rafacv23"}
+            destino={"https://github.com/Rafacv23/dashboard-nextjs"}
             icon={<IconBrandGithub />}
           />
           <HeaderBtn
